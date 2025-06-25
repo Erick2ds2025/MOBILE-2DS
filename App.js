@@ -1,8 +1,8 @@
-import Aula02 from "./src/aula02";
+import Aula05 from "./src/aula05";
 
 export default function App() {
   return (
-    <Aula02/>
+    <Aula05/>
   );
 }
 
